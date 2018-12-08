@@ -1,2 +1,2 @@
 # NodeJS
-NodeJS exercises
+NodeJS tips,trips and tricks. (first commit)
