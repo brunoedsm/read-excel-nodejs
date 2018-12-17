@@ -1,0 +1,14 @@
+{
+  "name": "readexcel",
+  "version": "1.0.0",
+  "description": "A proof of concept to read .xlsx files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "author": "Bruno Monteiro",
+  "license": "MIT",
+  "dependencies": {
+    "read-excel-file": "^2.0.6"
+  }
+}
